@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "name": "Policy: Pink",
+        "version": "1.0.0",
+        "author": "policy#1337"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803295715924770866\/898028909990400021\/wp4727777.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/852919625293627423\/897897960732504116\/Oh_Whale_-_TTF.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "input_background": 0,
+        "accent": -740406,
+        "mention_highlight": 1304363076,
+        "active_channel": -2081115190,
+        "statusbar": -6528907
+    },
+    "colors": {
+        "primary_dark_630": 0,
+        "primary_dark_600": 0,
+        "primary_dark_800": 7485952,
+        "uikit_btn_bg_color_selector_red": -386678796,
+        "primary_dark_300": -388540025,
+        "uikit_settings_item_text_color_light": -1073477,
+        "primary_dark_400": -3899240,
+        "uikit_btn_bg_color_selector_green": -2647633
+    },
+    "drawable_tints": {
+        "ic_thread": -740406,
+        "ic_channel_text": -2722354,
+        "drawable_overlay_channel_pressed_dark": 1858419565,
+        "drawable_bg_reaction_dark": -2014478169,
+        "ic_channel_text_grey_18dp": -2081115190,
+        "ic_channel_voice_grey_18dp": -2086400826
+    }
+}
