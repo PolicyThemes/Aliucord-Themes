@@ -3,10 +3,10 @@ These Are Themes I Made For Aliucord. Enjoy! <3
 
 # Preview
 ### Policy Theme
-<img src="https://media.discordapp.net/attachments/873240959318642748/898042540484333578/Screenshot_20211013-225956.jpg" width="270" height="600">
+<img src="https://media.discordapp.net/attachments/873240959318642748/898042540484333578/Screenshot_20211013-225956.jpg">
 
 ### Policy: Pink Theme
-<img src="https://media.discordapp.net/attachments/873240959318642748/898042540748578836/Screenshot_20211013-225910.jpg" width="270" height="600">
+<img src="https://media.discordapp.net/attachments/873240959318642748/898042540748578836/Screenshot_20211013-225910.jpg">
 
 # Install These Themes
 
