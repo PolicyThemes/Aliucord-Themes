@@ -10,7 +10,7 @@ These Are Themes I Made For Aliucord. Enjoy! <3
 
 # Install These Themes
 
-## [Policy Theme](https://cdn.discordapp.com/attachments/873240959318642748/898043117415059486/policy.json)
+## [Policy Theme](https://cdn.discordapp.com/attachments/873240959318642748/898046455254761502/policy.json)
 
 ## [Policy: Pink Theme](https://cdn.discordapp.com/attachments/873240959318642748/898043117553479712/policypink.json)
 
