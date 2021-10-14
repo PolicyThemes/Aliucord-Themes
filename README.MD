@@ -9,7 +9,7 @@ These Are Themes I Made For Aliucord. Enjoy! <3
 <img src="https://media.discordapp.net/attachments/873240959318642748/898042540748578836/Screenshot_20211013-225910.jpg">
 
 ### Policy: Green Theme
-<img src"https://media.discordapp.net/attachments/876542889348456498/898239069446869022/Screenshot_20211014-115941.jpg">
+<img src="https://media.discordapp.net/attachments/876542889348456498/898239069446869022/Screenshot_20211014-115941.jpg">
 
 <img src="https://media.discordapp.net/attachments/876542889348456498/898239069174235166/Screenshot_20211014-120007.jpg">
 
